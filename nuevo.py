@@ -1,2 +1,3 @@
 #nuevos
-print("hello word")
+nuevo= "pepe"
+print(nuevo)
