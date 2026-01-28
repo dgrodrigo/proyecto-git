@@ -1,3 +1,3 @@
 #nuevos
-nuevo= "carlos"
+nuevo= "pepe"
 print(nuevo)
